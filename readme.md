@@ -53,3 +53,17 @@ https://2chargers.net/api/addresses/search-with-geo
 - 20_11_2022 - собранные данные
 - всякие csv - всякое собранное по разным методам
 - parse.ipynb - этим все собирал
+
+## Как работает
+
+1. - prep segments 
+    - потом надо joblib.dump(new_segments, 'segments_17_07_2023')
+
+2. - scan locations
+    - на выходе сохраняет csv ru_station_locations.csv - там локации в рф
+
+3. - scan stations on locations
+    - по каждой локации смотрит станции, на выходе сохранят файл all_stations.csv
+
+4. - prep formatted output
+    - тут возможно реформаттинг под требования + фильтрация лишнего, на выходе stations_formatted.csv
