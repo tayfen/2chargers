@@ -1,0 +1,44 @@
+id,name,image_url,decription
+2,CCS,https://2chargers.net/uploads/connectors/Ccs.png,Неопределенно CCS1 или CCS2
+37,CCS 2,https://2chargers.net/uploads/connectors/Ccs2.png,Точно — Европейский CCS/SAE Combo 2
+38,CCS 1,https://2chargers.net/uploads/connectors/Ccs1.png,Точно — Американский CCS/SAE Combo 1
+3,CHAdeMO,https://2chargers.net/uploads/connectors/Chademo.png,"Любой, первой или второй ревизии"
+39,Tesla Supercharger Type 2,https://2chargers.net/uploads/connectors/TeslaFast.EU.Type2.png,EU: с разъемом как Type 2 (есть в Сколково)
+41,Tesla Supercharger US,https://2chargers.net/uploads/connectors/TeslaFast.US.png,US: под американский разъем (есть в Сколково)
+40,Tesla Supercharger CCS 2,https://2chargers.net/uploads/connectors/TeslaFast.EU.CCS2.png,EU: с разъемом CCS 2
+1,Tesla Supercharger (unsorted),https://2chargers.net/uploads/connectors/TeslaFast.png,Не рассортированные разъемы Supercharger. Это один из: Type 2 / CCS / US / GB/T
+50,Type1/Type2(Multi),https://2chargers.net/uploads/connectors/multi.type2.type1.png,
+7,Type 2,https://2chargers.net/uploads/connectors/Type2.png,"Разъём переменного тока, розетка или кабель"
+4,Type 1,https://2chargers.net/uploads/connectors/J1772.png,"Он же, J-1772"
+17,Розетка RU/Euro,https://2chargers.net/uploads/connectors/WallEuro.png,"Обычная розетка 230V под 16А, часто упоминаемая как ""Евро"" или ""Шуко"" (Schuko)"
+42,Tesla EU (только для Tesla),https://2chargers.net/uploads/connectors/Tesla.EU.png,"EU: Европейский разъем Type 2 AC, настроенный заряжать ТОЛЬКО Теслы"
+5,Tesla US,https://2chargers.net/uploads/connectors/Tesla.png,US: Американский медленный Wall/Mobile Charger
+13,GB/T DC,https://2chargers.net/uploads/connectors/Gbt2.png,Китайский ГОСТовый быстрый разъем
+12,GB/T AC,https://2chargers.net/uploads/connectors/Gbt.png,Китайский ГОСТовый медленный разъем. Внешне похож на Type 2
+9,Неизвестная красная (на три фазы),https://2chargers.net/uploads/connectors/ThreePhase.Unknown.png,Пока не рассортированные промышленные разъемы на три фазы
+23,"Красная, 5-pin 32А",https://2chargers.net/uploads/connectors/ThreePhase.5pin.all.png,"CEE-розетка ""-6h"" под три фазы"
+24,"Красная, 5-pin 16А",https://2chargers.net/uploads/connectors/ThreePhase.5pin.all.png,"CEE-розетка ""-6h"" под три фазы"
+25,"Красная, 4-pin 32А",https://2chargers.net/uploads/connectors/ThreePhase.4pin.all.png,"Редкая CEE-розетка с четырьмя штырьками ""-6h"" под три фазы"
+26,"Красная, 4-pin 16А",https://2chargers.net/uploads/connectors/ThreePhase.4pin.all.png,"Редкая CEE-розетка с четырьмя штырьками ""-6h"" под три фазы"
+14,NEMA 14-50,https://2chargers.net/uploads/connectors/NEMA1450.png,"Американская бытовая силовая, до 50А"
+11,"Синяя, 32A",https://2chargers.net/uploads/connectors/BlueCommando.png,"Промышленная розетка Commando Mains Socket, CEE 3-pin"
+10,"Синяя, 16A",https://2chargers.net/uploads/connectors/CaravanMainsSocket.png,"Промышленная розетка Caravan Mains Socket, CEE 3-pin"
+49,Советский РШ30 УХЛ4,https://2chargers.net/uploads/connectors/Industrial.SU.RSh30.png,"Разъем электроплиты 3 фазы: РШ30, РА32 или ""УХЛ4"" 25А/32А"
+30,Промышленный разъем,https://2chargers.net/uploads/connectors/Industrial.SU.Other.png,"Разъем электроплиты 3 фазы: РШ30, РА32 или ""УХЛ4"" 25А/32А"
+44,Прочий промышленный разъем,https://2chargers.net/uploads/connectors/Industrial.WW.Other.png,
+8,Type 3,https://2chargers.net/uploads/connectors/Type3.png,"IT/FR, Крайне редкие 1-/3- фазные разъемы семейства Scame."
+19,Type 3A,https://2chargers.net/uploads/connectors/Type3A.png,"IT/FR, 1 фаза, 16А. 4 контакта, крайне редкий"
+29,Type 3C,https://2chargers.net/uploads/connectors/Type3.png,"IT/FR, 3 фазы 32А, 7 контактов, крайне редкий"
+6,Tesla Roadster (Gen. I),https://2chargers.net/uploads/connectors/TeslaRoadster.png,Пропиетарный разъем Roadster первого поколения
+33,5-pin 63А,https://2chargers.net/uploads/connectors/ThreePhase.4pin.ExtremePowered.png,"Красная гигантская, три фазы, 5 пинов + ""пилотный"" контакт в центре"
+34,5-pin 125А,https://2chargers.net/uploads/connectors/ThreePhase.4pin.ExtremePowered.png,"Красная гигантская, три фазы, 5 пинов + ""пилотный"" контакт в центре"
+31,4-pin 63А ,https://2chargers.net/uploads/connectors/ThreePhase.5pin.ExtremePowered.png,"Красная гигантская, три фазы, 4 пинов + ""пилотный"" контакт в центре"
+32,4-pin 125А,https://2chargers.net/uploads/connectors/ThreePhase.5pin.ExtremePowered.png,"Красная гигантская, три фазы, 4 пинов + ""пилотный"" контакт в центре"
+35,3-pin 63А,https://2chargers.net/uploads/connectors/SinglePhase.3pin.ExtremePowered.png,"Синяя гигантская, одна фаза, 4 контакта: 3 пина основных + ""пилотный"" контакт на общем кольце контактов"
+15,Розетка US/JP,https://2chargers.net/uploads/connectors/WallOutlet.US.png,"US/JP: ""домашние"" семейства NEMA 5 и совместимые"
+43,Розетка CN,https://2chargers.net/uploads/connectors/WallOutlet.CN.png,Китайская розетка
+16,Розетка UK,https://2chargers.net/uploads/connectors/WallOutlet.UK.BS1363.png,BS1363: Британия / сателлиты
+18,Розетка AU/NZ,https://2chargers.net/uploads/connectors/WallOutlet.AU.NZ.3112.png,"3112: Австралия, Новая Зеландия, Аргентина, т.п."
+36,Прочие бытовые розетки,https://2chargers.net/uploads/connectors/WallOutlet.WW.Other.png,"Прочие бытовые розетки, не перечисленные в перечне"
+28,"Подключение к щитку (1 фаза, 230V)",https://2chargers.net/uploads/connectors/OwnWires.1Phase.png,Подключение к 230V со своими проводами
+27,"Подключение к щитку (3 фазы, 400V)",https://2chargers.net/uploads/connectors/OwnWires.3Phase.png,Подключение к трем фазам со своими проводами
